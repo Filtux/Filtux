@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Filtux
-- 👀 I’m interested in whatever takes my fancy
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Python and Javascript
 
 <!---
 Filtux/Filtux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
